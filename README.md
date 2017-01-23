@@ -3,7 +3,9 @@ In this notebook I have done some data preparation, cleaning and preprocessing f
 
 To do:      
 Analyze and solve potential problems up to this point
+
 Feature Selection
+
 Variance Threshold
 Most important features
 Recursive Feature Elimination
